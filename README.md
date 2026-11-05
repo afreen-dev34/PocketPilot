@@ -108,9 +108,9 @@ git push -u origin main
 
 | Member | Owned work |
 |---|---|
-| Member 1 — Name | Dashboard, transaction list and detail screen |
-| Member 2 — Name | Add-expense form, validation and user flow |
-| Member 3 — Name | Provider, local storage, insights, tests and integration |
+| Afreen | Dashboard, transaction list and detail screen |
+| Shamitha | Add-expense form, validation and user flow |
+| Sai Sri Lakshmi | Provider, local storage, insights, tests and integration |
 
 Every member should make regular commits and be able to explain their own code and the overall app flow.
 
